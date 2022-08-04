@@ -1,0 +1,35 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 100px;
+}
+
+.banner h1 {
+  color: #FEFAE0;
+  text-shadow: 0 10px 30px black;
+}
+
+.banner p {
+  font-size: 20px;
+  margin: 20px 0 35px 0;
+  color: #fefae0d5;
+  text-shadow: 0 10px 30px black;
+}
+
+.banner a {
+  color: #FEFAE0;
+  background-color: #606C38;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 12px 16px;
+  border: 1px solid #FEFAE0;
+  border-radius: 24px;
+  transition: 0.5s;
+}
+
+.banner a:hover {
+  color: #606C38;
+  background-color: #FEFAE0;
+  font-size: 18px;
+  border: 2px solid #606C38;
+}
